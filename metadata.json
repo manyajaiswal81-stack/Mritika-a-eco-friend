@@ -1,0 +1,6 @@
+{
+  "name": "Mrittika - Ancient Indian Biodegradable Practices",
+  "description": "An interactive living archive and ecological simulator exploring ancient Indian biodegradable practices, from terracotta kulhars and sal leaf pattals to neem datun and circular zero-waste systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
